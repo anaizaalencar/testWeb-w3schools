@@ -1,3 +1,5 @@
+[![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
+
 # Teste WEB do site w3schools com Cucumber
 
 ## Script de teste para validar algumas funcionalidades das telas Color Groups, HTML Forms e Modal Boxes do site https://www.w3schools.com/.
