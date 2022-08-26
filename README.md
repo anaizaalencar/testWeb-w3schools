@@ -18,7 +18,7 @@
 <!--te-->
 
 ### Como usar
-#### Pre Requisito:
+#### Pre Requisitos:
 * Fazer Download/clone do projeto;
 * Antes de começar, você vai precisar ter instalado em sua máquina uma IDE.
 * Importar o projeto;
@@ -27,7 +27,7 @@
   * FormsTest
   * ModalTest
 
-#### Local File:
+#### Local Files:
 Para executar os testes é preciso abrir as classes de teste, onde as classes estão separadas por funcionalidade:
 - C:...\w3schoolsWebAutomacao\src\test\java\cucumber\ColorsTest.java
 - C:...\w3schoolsWebAutomacao\src\test\java\cucumber\FormsTest.java
